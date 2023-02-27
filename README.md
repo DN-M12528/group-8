@@ -9,3 +9,6 @@ MARK IAN ODERO                   ENE211-0245/2021
 EDWIN EMBUKA IMBUKA      ENE211-0237/2021
 
 ONESMUS KILONZO                ENE211-0027/2021
+
+
+assignment 3 is in the master branch
